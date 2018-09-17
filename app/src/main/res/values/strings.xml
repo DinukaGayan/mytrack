@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MyTrack</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">about</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_gallery_fragment">Hello gallery fragment</string>
+    <string name="hello_home_fragment">Hello home fragment</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_forgot_password">Forgot Password</string>
+    <string name="spinner_title">Select Remark</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="msg_sit_back">Sit back &amp; Relax! while we verify your mobile number</string>
+    <string name="msg_sit_back_password">Your account is secure with MyTrack</string>
+    <string name="msg_manual_otp">(Enter the OTP below in case if we fail to detect the SMS automatically)</string>
+    <string name="msg_manual_otp_password">(Enter the OTP we sent to your phone below)</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="footer">Dinuka Jayathilaka</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="progress_dialog">MyTrack</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="lbl_enter_otp">Enter OTP</string>
+    <string name="lbl_enter_eee">Enter EEE</string>
+    <string name="hotlist">List</string>
+    <string name="sample">sample</string>
+
+</resources>

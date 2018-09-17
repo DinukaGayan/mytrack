@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<item android:id="@+id/view" android:title="View" android:icon="@drawable/visible"-->
+        <!--android:enabled="false"-->
+        <!--android:visible="false"/>-->
+    <item android:id="@+id/report" android:title="Report" android:icon="@drawable/report" />
+    <!--<item android:id="@+id/delete" android:title="Delete" android:icon="@drawable/delete" android:enabled="false" android:visible="false"/>-->
+    <group android:id="@+id/helpgroup">
+        <item android:id="@+id/close" android:title="Close" android:icon="@drawable/close"/>
+    </group>
+</menu>
